@@ -40,4 +40,6 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-A-Hassan001
+- **Name:**A-Hassan001
+- **Status:** Active and Maintained
+- **Repository:** https://github.com/A-Hassan001/Procore-Scraper
